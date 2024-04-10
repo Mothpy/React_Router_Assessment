@@ -1,1 +1,5 @@
 # React_Router_Assessment
+
+# NPM Install & Attach
+npm i -g @qualified/attach && \
+    qualified-attach --token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYXR0YWNoIiwiY2FuZGlkYXRlX2lkIjoiNjRkNTRmMjYwNDdkMzIwMDI1ZTgyNWFhIiwiYXNzZXNzbWVudF9yZXN1bHRfaWQiOiI2NWZjZDVmMTJlYTg0YzAwMjU4Y2Q3ZjYiLCJjaGFsbGVuZ2VfaWQiOiI2NTk1YjY1YzE3NmMwYjAwMzZiNzNkNzIifQ.EgQ9LGCDf1Oy4z3lSOCR_Un-k_rz6D9xwhwVL8a0pt8
